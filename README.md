@@ -1,6 +1,6 @@
 # Programas elecciones presidenciales 2021
 
-Versión en texto plano de los programas de gobierno de quienes participaron en las elecciones presidenciales de Chile.
+Versión en texto plano de los programas de gobierno de quienes participaron en las elecciones presidenciales de Chile para el período 2022-2026.
 
 
 La extracción del texto de los documentos que estaban en pdf se hizo utilizando el paquete de R :package: [{pdftools}](https://docs.ropensci.org/pdftools/) + :sparkles:expresiones regulares:sparkles:. En el caso del pdf con el programa de Sebastián Sichel, las páginas a doble columna se dividieron previamente usando [BRISS](http://briss.sourceforge.net/).
